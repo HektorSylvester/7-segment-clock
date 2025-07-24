@@ -6,9 +6,7 @@
  * Multiplexação de 5ms para display estável
  * Contagem automática de tempo
 
-   Esse repositório é pra uso pessoal
-
-
+Conexões
 | Segmento          | Pino no Arduino |
 | ----------------- | --------------- |
 | A                 | D2              |
@@ -27,3 +25,5 @@
 | D2                   | D10             |
 | D3                   | D11             |
 | D4 (mais à direita)  | D12             |
+
+   Esse repositório é pra uso pessoal
