@@ -6,3 +6,5 @@
  * Configuração via Serial no formato HH:MM:SS
  * Multiplexação de 5ms para display estável
  * Contagem automática de tempo
+
+   Esse repositório é pra uso pessoal
